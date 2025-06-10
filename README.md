@@ -26,6 +26,27 @@
 
 This repository provides an in-depth analysis of television broadcasting technologies, covering technical architectures, equipment requirements, regulatory frameworks, and future trends. Whether you're a broadcast engineer, media professional, or technology enthusiast, this guide offers comprehensive insights into how television content reaches audiences worldwide.
 
+## 🚀 Getting Started
+
+### Quick Clone & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide.git
+
+# Navigate to the project directory
+cd Television-Broadcasting-Technology-Guide
+
+# Explore the documentation
+ls docs/
+
+# Read specific technology guides
+cat docs/terrestrial/README.md
+cat docs/cctv/README.md
+cat docs/outside-broadcast/README.md
+cat docs/satellite/README.md
+```
+
 ### 🚀 Key Features
 
 - **Technical Deep Dives**: Detailed explanations of signal transmission, modulation schemes, and equipment specifications
@@ -786,11 +807,16 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### How to Contribute
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
+1. **Fork** the repository from [HorizonHnk/Television-Broadcasting-Technology-Guide](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide)
+2. **Clone** your fork locally:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/Television-Broadcasting-Technology-Guide.git
+   cd Television-Broadcasting-Technology-Guide
+   ```
+3. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+4. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+5. **Push** to the branch (`git push origin feature/amazing-feature`)
+6. **Open** a Pull Request
 
 ### Areas for Contribution
 
@@ -802,13 +828,23 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/blob/main/LICENSE) file for details.
+
+### License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ❌ Liability
+- ❌ Warranty
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/horizonhnk/tv-broadcasting-guide/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/horizonhnk/tv-broadcasting-guide/discussions)
-- **Email**: broadcasting-tech@example.com
+- **Repository**: [Television Broadcasting Technology Guide](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide)
+- **Issues**: [GitHub Issues](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/discussions)
+- **Email**: [hhnk3693@gmail.com](mailto:hhnk3693@gmail.com)
+- **Documentation**: [Wiki Pages](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/wiki)
 
 ---
 
@@ -830,4 +866,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > **⭐ Star this repository** if you find it useful for your broadcasting technology research and projects!
 
-**[📖 Read Full Documentation](docs/) | [🎥 Video Tutorials](tutorials/) | [📊 Industry Reports](reports/)**
+**[📖 Read Full Documentation](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/wiki) | [🎥 Video Tutorials](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/tree/main/tutorials) | [📊 Industry Reports](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/tree/main/reports)**
+
+## 🚀 Repository Structure
+
+```
+Television-Broadcasting-Technology-Guide/
+├── README.md                 # This comprehensive guide
+├── docs/                    # Detailed documentation
+│   ├── terrestrial/        # Terrestrial TV technical specs
+│   ├── cctv/              # CCTV system guides
+│   ├── outside-broadcast/  # OB equipment and procedures
+│   └── satellite/         # DBS technology details
+├── tutorials/              # Step-by-step tutorials
+├── reports/               # Industry analysis and reports
+├── tools/                 # Calculation tools and utilities
+└── examples/              # Real-world implementation examples
+```
