@@ -1,8 +1,8 @@
 # 📺 Television Broadcasting Technology Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Documentation](https://img.shields.io/badge/docs-available-brightgreen.svg)](docs/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/HorizonHnk/Television-Broadcasting-Technology-Guide.svg)](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](#contributing)
 [![Last Updated](https://img.shields.io/badge/last%20updated-June%202025-blue.svg)]()
 
 > A comprehensive technical guide covering the four primary types of television broadcasting technologies: Terrestrial, Closed-Circuit (CCTV), Outside Broadcasting (OB), and Direct Broadcast Satellite (DBS).
@@ -37,14 +37,12 @@ git clone https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide
 # Navigate to the project directory
 cd Television-Broadcasting-Technology-Guide
 
-# Explore the documentation
-ls docs/
+# Read the comprehensive guide
+cat README.md
 
-# Read specific technology guides
-cat docs/terrestrial/README.md
-cat docs/cctv/README.md
-cat docs/outside-broadcast/README.md
-cat docs/satellite/README.md
+# Create your own documentation structure (optional)
+mkdir -p docs/{terrestrial,cctv,outside-broadcast,satellite}
+mkdir -p {tutorials,reports,tools,examples}
 ```
 
 ### 🚀 Key Features
@@ -803,7 +801,7 @@ UHF Band:     470-806 MHz (Channels 14-69)
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please follow these guidelines when contributing to the project.
 
 ### How to Contribute
 
@@ -825,10 +823,14 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - [ ] Regulatory changes (spectrum reallocation)
 - [ ] Technology roadmaps (5G integration)
 - [ ] Case studies (implementation examples)
+- [ ] Create detailed documentation folders
+- [ ] Add tutorial content for each technology
+- [ ] Industry analysis reports
+- [ ] Calculation tools and utilities
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### License Summary
 - ✅ Commercial use
@@ -844,7 +846,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - **Issues**: [GitHub Issues](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/discussions)
 - **Email**: [hhnk3693@gmail.com](mailto:hhnk3693@gmail.com)
-- **Documentation**: [Wiki Pages](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/wiki)
 
 ---
 
@@ -866,20 +867,18 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 > **⭐ Star this repository** if you find it useful for your broadcasting technology research and projects!
 
-**[📖 Read Full Documentation](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/wiki) | [🎥 Video Tutorials](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/tree/main/tutorials) | [📊 Industry Reports](https://github.com/HorizonHnk/Television-Broadcasting-Technology-Guide/tree/main/reports)**
-
 ## 🚀 Repository Structure
 
 ```
 Television-Broadcasting-Technology-Guide/
 ├── README.md                 # This comprehensive guide
-├── docs/                    # Detailed documentation
+├── docs/                    # Detailed documentation (planned)
 │   ├── terrestrial/        # Terrestrial TV technical specs
 │   ├── cctv/              # CCTV system guides
 │   ├── outside-broadcast/  # OB equipment and procedures
 │   └── satellite/         # DBS technology details
-├── tutorials/              # Step-by-step tutorials
-├── reports/               # Industry analysis and reports
-├── tools/                 # Calculation tools and utilities
-└── examples/              # Real-world implementation examples
+├── tutorials/              # Step-by-step tutorials (planned)
+├── reports/               # Industry analysis and reports (planned)
+├── tools/                 # Calculation tools and utilities (planned)
+└── examples/              # Real-world implementation examples (planned)
 ```
