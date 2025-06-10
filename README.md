@@ -996,4 +996,4 @@ This project combines **comprehensive technical documentation** with a **modern 
 
 ---
 
-*© 2025 Television Broadcasting Technology Guide. Created with passion for broadcast technology education and professional development.*
+*Hnk © 2025 Television Broadcasting Technology Guide. Created with passion for broadcast technology education and professional development.*
